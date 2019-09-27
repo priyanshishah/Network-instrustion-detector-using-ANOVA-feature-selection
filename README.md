@@ -1,2 +1,3 @@
 # Network-instrustion-detector-using-ANOVA-feature-selection
-Problem statement ?
+An intrusion detection system (IDS) is a device or software application that monitors a network or systems for malicious activity or policy violations. Any malicious activity or violation is typically reported either to an administrator or collected centrally using a security information and event management (SIEM) system. A SIEM system combines outputs from multiple sources, and uses alarm filtering techniques to distinguish malicious activity from false alarms.
+Here,I have used NSL-KDDCUP dataset and decision tree as a classifier to my model. 
